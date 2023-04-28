@@ -45,7 +45,7 @@ To use the  program you will utilize Jupyter Lab:
 
 Upon launching jupyter lab
 
-![Risk Return Analisys Prompts](images/jupyter_lab.png)
+![Risk Return Analisys Prompts](Images/jupyter_lab.png)
 
 
 ---

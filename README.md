@@ -35,10 +35,11 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-To use the  program you will utilize Jupyter Lab:
+To use the  program you will utilize Jupyter Lab. Make sure your enviorment is activated on your terminal befor running Jupyter Lab:
 
 
-* [JupyterLab](https://jupyter.org/) 
+* [Jupyter Lab](https://jupyter.org/) 
+* [Conda Environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) 
 
 
 ---

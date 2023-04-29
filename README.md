@@ -13,7 +13,7 @@ This project leverages jupyter lab and python 3.7 with the following packages:
 
 * [geoviews](https://geoviews.org/) - For performing interactive special map plot.
 
-* [hvplot](https://hvplot.holoviz.org/) - aAPI for data exploration and visualization.
+* [hvplot](https://hvplot.holoviz.org/) - API for data exploration and visualization.
 
 * [pathlib](https://docs.python.org/3/library/pathlib.html) - Provised method to interact with the filesystem.
 

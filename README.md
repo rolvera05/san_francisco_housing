@@ -45,7 +45,7 @@ To use the  program you will utilize Jupyter Lab:
 
 Upon launching jupyter lab
 
-![jupyterlab](/Images/jupyter%20lab.pngI)
+![jupyterlab](/Images/jupyter%20lab.png)
 
 
 ---
